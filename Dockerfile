@@ -16,7 +16,7 @@ RUN chmod +x /tmp/pocketbase/pocketbase
 
 #############################################
 # Final image
-#############################################
+##############################################
 
 FROM alpine:latest
 LABEL maintainer="Kola Marcel <kolamarcel16@gmail.com>"
