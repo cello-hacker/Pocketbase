@@ -11,3 +11,5 @@ services:
 volumes:
   pocketbase-volume:
     name: pocketbase-volume
+    render:
+      persistent: true
