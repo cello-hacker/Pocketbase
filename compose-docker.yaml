@@ -1,3 +1,7 @@
+[mounts]
+  destination = "/pb/pb_data"
+  source = "pb_data"
+
 services:
   pocketbase:
     container_name: pocketbase
