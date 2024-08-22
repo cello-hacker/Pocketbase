@@ -1,6 +1,3 @@
-[mounts]
-  destination = "/pb/pb_data"
-  source = "pb_data"
 
 services:
   pocketbase:
